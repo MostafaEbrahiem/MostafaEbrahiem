@@ -7,14 +7,9 @@ My Name is Mostafa Ebrahim and I'm an entry level :-
 - front end developer 🕸️
 - 3d animator 📺
 #
-
-![coffee](https://user-images.githubusercontent.com/88105870/190959072-59116274-2bfa-46fa-94cf-dbe57fc1e8d4.gif)
-
 Here is my website
 https://mostafa-ibrahim.netlify.app/
-
-![giphy](https://user-images.githubusercontent.com/88105870/190959079-6fedafb0-b2ea-49b8-8030-30749b3dcac1.gif)
-
+![coffee](https://user-images.githubusercontent.com/88105870/190959072-59116274-2bfa-46fa-94cf-dbe57fc1e8d4.gif)
 #
 
 Also I Love to try to learn completly new things and compete in challenges (It add some spices to my life 🤪)
@@ -29,3 +24,5 @@ Here are some facts about me :
 - 📫 How to reach me: +201150942306 🤙
 - 😄 Pronouns: You can always call me Yastaa 🤣
 - ⚡ Fun fact: I love 3d animation more than Programming 😲
+
+![giphy](https://user-images.githubusercontent.com/88105870/190959079-6fedafb0-b2ea-49b8-8030-30749b3dcac1.gif)
