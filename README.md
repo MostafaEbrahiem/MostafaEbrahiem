@@ -1,10 +1,11 @@
 # **Hi there** 👋 
  
 My Name is Mostafa Ebrahim and I'm an entry level :-
--software engineer 👨‍💻
--DL/ML engineer 🤖
--front end developer 🕸️
--3d animator 📺
+
+- software engineer 👨‍💻
+- DL/ML engineer 🤖
+- front end developer 🕸️
+- 3d animator 📺
 
 Here is my website
 https://mostafa-ibrahim.netlify.app/
